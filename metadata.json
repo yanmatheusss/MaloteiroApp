@@ -1,0 +1,7 @@
+{
+  "name": "Maloteiro App",
+  "description": "Exclusive app for couriers to manage deliveries, routes, and earnings. Features geolocation tracking, manual route adjustments, and delivery management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
